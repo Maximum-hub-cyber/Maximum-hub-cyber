@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maximum-hub-cyber
-- 👀 I’m interested in web/app development
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on web programme
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning cyber security / ethical hacks
+- 💞️ I’m looking to collaborate on cyber programme
 - 📫 How to reach me ...s65750307@gmail.com
 
 <!---
